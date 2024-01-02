@@ -1,2 +1,6 @@
 this is main code bla bla bla
+<<<<<<< HEAD
 chages from beach
+=======
+forest changes
+>>>>>>> main
